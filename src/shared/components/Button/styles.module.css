@@ -1,0 +1,11 @@
+button {
+  background-color: #ff5500;
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+  color: white;
+}
+
+button.featured {
+  background-color: #5555ff;
+}
